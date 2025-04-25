@@ -120,11 +120,11 @@
 			// 
 			// LabelD
 			// 
-			this.LabelD.Location = new System.Drawing.Point(7, 213);
+			this.LabelD.Location = new System.Drawing.Point(10, 213);
 			this.LabelD.Name = "LabelD";
 			this.LabelD.Size = new System.Drawing.Size(29, 51);
 			this.LabelD.TabIndex = 8;
-			this.LabelD.Text = "Kc:";
+			this.LabelD.Text = "D:";
 			this.LabelD.Click += new System.EventHandler(this.LabelD_Click);
 			// 
 			// TextBoxD
@@ -188,11 +188,11 @@
 			// 
 			// LabelE
 			// 
-			this.LabelE.Location = new System.Drawing.Point(12, 424);
+			this.LabelE.Location = new System.Drawing.Point(8, 424);
 			this.LabelE.Name = "LabelE";
 			this.LabelE.Size = new System.Drawing.Size(32, 17);
 			this.LabelE.TabIndex = 15;
-			this.LabelE.Text = "Ko:";
+			this.LabelE.Text = "E:";
 			// 
 			// PlainText
 			// 
@@ -306,7 +306,7 @@
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.MistyRose;
-			this.ClientSize = new System.Drawing.Size(1025, 703);
+			this.ClientSize = new System.Drawing.Size(1025, 718);
 			this.Controls.Add(this.ButtonR);
 			this.Controls.Add(this.TextBoxE);
 			this.Controls.Add(this.button5);
